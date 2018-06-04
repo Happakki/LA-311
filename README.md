@@ -1,4 +1,4 @@
-# LA-311
+# LA-311-Analysis
 An analysis on MyLA311 Service request data, consiting of sections like exploratory data analysis, visualization combining with census data and GIS data, clustering, and request forecasting. 
 
 You can access the data through:
