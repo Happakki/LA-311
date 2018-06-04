@@ -1,1 +1,5 @@
 # LA-311
+An analysis on MyLA311 Service request data. 
+
+You can access the data through:
+https://data.lacity.org/A-Well-Run-City/MyLA311-Service-Request-Data-2017/d4vt-q4t5/data
